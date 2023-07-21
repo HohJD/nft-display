@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import { HeaderResponsive } from '../../components/Header';
 import { FooterLinks } from '../../components/Footer';
-import { Title } from '@mantine/core';
 
 const links = [
   { link: '/', label: 'Home' },
